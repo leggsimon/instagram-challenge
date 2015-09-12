@@ -164,24 +164,20 @@ User
 ```
 
 ## Technologies Used
-
-- [Ruby](https://www.ruby-lang.org)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Devise](https://github.com/plataformatec/devise)
-- [Paperclip](https://github.com/thoughtbot/paperclip)
-
-
-
-- [RSpec](https://relishapp.com/rspec)
-- [Capybara](https://github.com/jnicklas/capybara)
-- [Shoulda](https://github.com/thoughtbot/shoulda)
-- [Factory Girl](https://github.com/thoughtbot/factory_girl)
-
-
-
-- [HTML](http://www.w3schools.com/html/)
-- [CSS](http://www.w3schools.com/css/)
-- [Bootstrap](http://getbootstrap.com/)
+- Backend
+  - [Ruby](https://www.ruby-lang.org)
+  - [Ruby on Rails](http://rubyonrails.org/)
+  - [Devise](https://github.com/plataformatec/devise)
+  - [Paperclip](https://github.com/thoughtbot/paperclip)
+- Testing
+  - [RSpec](https://relishapp.com/rspec)
+  - [Capybara](https://github.com/jnicklas/capybara)
+  - [Shoulda](https://github.com/thoughtbot/shoulda)
+  - [Factory Girl](https://github.com/thoughtbot/factory_girl)
+- Frontend
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [Bootstrap](http://getbootstrap.com/)
 
 
 

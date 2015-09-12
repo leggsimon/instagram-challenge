@@ -170,12 +170,10 @@ User
 - [Devise](https://github.com/plataformatec/devise)
 - [Paperclip](https://github.com/thoughtbot/paperclip)
 
-
 - [RSpec](https://relishapp.com/rspec)
 - [Capybara](https://github.com/jnicklas/capybara)
 - [Shoulda](https://github.com/thoughtbot/shoulda)
 - [Factory Girl](https://github.com/thoughtbot/factory_girl)
-
 
 - [HTML](http://www.w3schools.com/html/)
 - [CSS](http://www.w3schools.com/css/)

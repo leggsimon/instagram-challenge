@@ -4,7 +4,7 @@
 
 [![Test Coverage](https://codeclimate.com/github/leggsimon/instagram-challenge/badges/coverage.svg)](https://codeclimate.com/github/leggsimon/instagram-challenge/coverage)
 
-[_View on Heroku_](https://mysterious-castle-3629.herokuapp.com/)
+[View on Heroku](https://mysterious-castle-3629.herokuapp.com/)
 
 # Instagram Challenge
 

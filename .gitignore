@@ -18,3 +18,4 @@ Gemfile.lock
 /spec/images
 
 logins.txt
+.env

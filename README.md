@@ -4,9 +4,7 @@
 
 [![Test Coverage](https://codeclimate.com/github/leggsimon/instagram-challenge/badges/coverage.svg)](https://codeclimate.com/github/leggsimon/instagram-challenge/coverage)
 
-[View on Heroku](https://mysterious-castle-3629.herokuapp.com/)
-
-# Instagram Challenge
+# Instagram Challenge [_View on Heroku_](https://mysterious-castle-3629.herokuapp.com/)
 
 - [Approach](#approach)
 - [How To Run](#how-to-run)
@@ -166,20 +164,22 @@ User
 ```
 
 ## Technologies Used
-- Backend
-  - [Ruby](https://www.ruby-lang.org)
-  - [Ruby on Rails](http://rubyonrails.org/)
-  - [Devise](https://github.com/plataformatec/devise)
-  - [Paperclip](https://github.com/thoughtbot/paperclip)
-- Testing
-  - [RSpec](https://relishapp.com/rspec)
-  - [Capybara](https://github.com/jnicklas/capybara)
-  - [Shoulda](https://github.com/thoughtbot/shoulda)
-  - [Factory Girl](https://github.com/thoughtbot/factory_girl)
-- Frontend
-  - [HTML](http://www.w3schools.com/html/)
-  - [CSS](http://www.w3schools.com/css/)
-  - [Bootstrap](http://getbootstrap.com/)
+
+- [Ruby](https://www.ruby-lang.org)
+- [Ruby on Rails](http://rubyonrails.org/)
+- [Devise](https://github.com/plataformatec/devise)
+- [Paperclip](https://github.com/thoughtbot/paperclip)
+
+
+- [RSpec](https://relishapp.com/rspec)
+- [Capybara](https://github.com/jnicklas/capybara)
+- [Shoulda](https://github.com/thoughtbot/shoulda)
+- [Factory Girl](https://github.com/thoughtbot/factory_girl)
+
+
+- [HTML](http://www.w3schools.com/html/)
+- [CSS](http://www.w3schools.com/css/)
+- [Bootstrap](http://getbootstrap.com/)
 
 
 
